@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://hajl.athuman.com/karuta/vi/assets_c/2020/11/ad12281df71f46bf0d01e57928a9e6e7178340ee-thumb-1132x800-522.jpg</item>
+        <item>https://hoatuoithanhthao.com/media/ftp/Hinh-anh-bo-hoa-hong-leo.jpg</item>
+        <item>https://thegioihoa.net/file/tintuc/2020/04/1587055796-70339.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://media.cdnandroid.com/item_images/1021700/imagen-cute-cat-hd-wallpapers-0big.jpg</item>
+        <item>https://filmdaily.co/wp-content/uploads/2020/05/dog-videos-lede-1300x868.jpg</item>
+        <item>https://wallpapercave.com/wp/wp7105432.jpg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://caresspet.com/wp-content/uploads/2018/10/s16-1024x768.jpg</item>
+        <item>https://vietucnews.net/wp-content/uploads/2017/10/food_photography_palm_beach_gardens_florida_parched_pig.jpg</item>
+        <item>https://www.b2b-infos.com/wp-content/uploads/Fast-food-en-France.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
